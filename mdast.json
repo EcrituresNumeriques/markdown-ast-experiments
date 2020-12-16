@@ -1,0 +1,2394 @@
+{
+  "type": "root",
+  "children": [
+    {
+      "type": "heading",
+      "depth": 1,
+      "children": [
+        {
+          "type": "text",
+          "value": "An h1 header",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 3,
+              "offset": 2
+            },
+            "end": {
+              "line": 1,
+              "column": 15,
+              "offset": 14
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 15,
+          "offset": 14
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Paragraphs are separated by a blank line.",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 1,
+              "offset": 16
+            },
+            "end": {
+              "line": 3,
+              "column": 42,
+              "offset": 57
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 3,
+          "column": 1,
+          "offset": 16
+        },
+        "end": {
+          "line": 3,
+          "column": 42,
+          "offset": 57
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "2nd paragraph. ",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 1,
+              "offset": 59
+            },
+            "end": {
+              "line": 5,
+              "column": 16,
+              "offset": 74
+            }
+          }
+        },
+        {
+          "type": "emphasis",
+          "children": [
+            {
+              "type": "text",
+              "value": "Italic",
+              "position": {
+                "start": {
+                  "line": 5,
+                  "column": 17,
+                  "offset": 75
+                },
+                "end": {
+                  "line": 5,
+                  "column": 23,
+                  "offset": 81
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 16,
+              "offset": 74
+            },
+            "end": {
+              "line": 5,
+              "column": 24,
+              "offset": 82
+            }
+          }
+        },
+        {
+          "type": "text",
+          "value": ", ",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 24,
+              "offset": 82
+            },
+            "end": {
+              "line": 5,
+              "column": 26,
+              "offset": 84
+            }
+          }
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "value": "bold",
+              "position": {
+                "start": {
+                  "line": 5,
+                  "column": 28,
+                  "offset": 86
+                },
+                "end": {
+                  "line": 5,
+                  "column": 32,
+                  "offset": 90
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 26,
+              "offset": 84
+            },
+            "end": {
+              "line": 5,
+              "column": 34,
+              "offset": 92
+            }
+          }
+        },
+        {
+          "type": "text",
+          "value": ", and ",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 34,
+              "offset": 92
+            },
+            "end": {
+              "line": 5,
+              "column": 40,
+              "offset": 98
+            }
+          }
+        },
+        {
+          "type": "inlineCode",
+          "value": "monospace",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 40,
+              "offset": 98
+            },
+            "end": {
+              "line": 5,
+              "column": 51,
+              "offset": 109
+            }
+          }
+        },
+        {
+          "type": "text",
+          "value": ". Itemized lists\nlook like:",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 51,
+              "offset": 109
+            },
+            "end": {
+              "line": 6,
+              "column": 11,
+              "offset": 136
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 5,
+          "column": 1,
+          "offset": 59
+        },
+        "end": {
+          "line": 6,
+          "column": 11,
+          "offset": 136
+        }
+      }
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "start": null,
+      "spread": false,
+      "children": [
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "this one",
+                  "position": {
+                    "start": {
+                      "line": 8,
+                      "column": 5,
+                      "offset": 142
+                    },
+                    "end": {
+                      "line": 8,
+                      "column": 13,
+                      "offset": 150
+                    }
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 8,
+                  "column": 5,
+                  "offset": 142
+                },
+                "end": {
+                  "line": 8,
+                  "column": 13,
+                  "offset": 150
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 140
+            },
+            "end": {
+              "line": 8,
+              "column": 13,
+              "offset": 150
+            }
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "that one",
+                  "position": {
+                    "start": {
+                      "line": 9,
+                      "column": 5,
+                      "offset": 155
+                    },
+                    "end": {
+                      "line": 9,
+                      "column": 13,
+                      "offset": 163
+                    }
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 9,
+                  "column": 5,
+                  "offset": 155
+                },
+                "end": {
+                  "line": 9,
+                  "column": 13,
+                  "offset": 163
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 153
+            },
+            "end": {
+              "line": 9,
+              "column": 13,
+              "offset": 163
+            }
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the other one",
+                  "position": {
+                    "start": {
+                      "line": 10,
+                      "column": 5,
+                      "offset": 168
+                    },
+                    "end": {
+                      "line": 10,
+                      "column": 18,
+                      "offset": 181
+                    }
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 10,
+                  "column": 5,
+                  "offset": 168
+                },
+                "end": {
+                  "line": 10,
+                  "column": 18,
+                  "offset": 181
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 166
+            },
+            "end": {
+              "line": 10,
+              "column": 18,
+              "offset": 181
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 8,
+          "column": 3,
+          "offset": 140
+        },
+        "end": {
+          "line": 10,
+          "column": 18,
+          "offset": 181
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Note that --- not considering the asterisk --- the actual text\ncontent starts at 4-columns in.",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 183
+            },
+            "end": {
+              "line": 13,
+              "column": 32,
+              "offset": 277
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 12,
+          "column": 1,
+          "offset": 183
+        },
+        "end": {
+          "line": 13,
+          "column": 32,
+          "offset": 277
+        }
+      }
+    },
+    {
+      "type": "blockquote",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Block quotes are\nwritten like so.",
+              "position": {
+                "start": {
+                  "line": 15,
+                  "column": 3,
+                  "offset": 281
+                },
+                "end": {
+                  "line": 16,
+                  "column": 19,
+                  "offset": 316
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 3,
+              "offset": 281
+            },
+            "end": {
+              "line": 16,
+              "column": 19,
+              "offset": 316
+            }
+          }
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "They can span multiple paragraphs,\nif you like.",
+              "position": {
+                "start": {
+                  "line": 18,
+                  "column": 3,
+                  "offset": 321
+                },
+                "end": {
+                  "line": 19,
+                  "column": 15,
+                  "offset": 370
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 3,
+              "offset": 321
+            },
+            "end": {
+              "line": 19,
+              "column": 15,
+              "offset": 370
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 15,
+          "column": 1,
+          "offset": 279
+        },
+        "end": {
+          "line": 19,
+          "column": 15,
+          "offset": 370
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., \"it's all\nin chapters 12--14\"). Three dots ... will be converted to an ellipsis.\nUnicode is supported. ☺",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 1,
+              "offset": 372
+            },
+            "end": {
+              "line": 23,
+              "column": 24,
+              "offset": 535
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 21,
+          "column": 1,
+          "offset": 372
+        },
+        "end": {
+          "line": 23,
+          "column": 24,
+          "offset": 535
+        }
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "children": [
+        {
+          "type": "text",
+          "value": "An h2 header",
+          "position": {
+            "start": {
+              "line": 25,
+              "column": 4,
+              "offset": 540
+            },
+            "end": {
+              "line": 25,
+              "column": 16,
+              "offset": 552
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 25,
+          "column": 1,
+          "offset": 537
+        },
+        "end": {
+          "line": 25,
+          "column": 16,
+          "offset": 552
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Here's a numbered list:",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 1,
+              "offset": 554
+            },
+            "end": {
+              "line": 27,
+              "column": 24,
+              "offset": 577
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 27,
+          "column": 1,
+          "offset": 554
+        },
+        "end": {
+          "line": 27,
+          "column": 24,
+          "offset": 577
+        }
+      }
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "start": 1,
+      "spread": false,
+      "children": [
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "first item",
+                  "position": {
+                    "start": {
+                      "line": 29,
+                      "column": 5,
+                      "offset": 583
+                    },
+                    "end": {
+                      "line": 29,
+                      "column": 15,
+                      "offset": 593
+                    }
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 29,
+                  "column": 5,
+                  "offset": 583
+                },
+                "end": {
+                  "line": 29,
+                  "column": 15,
+                  "offset": 593
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 29,
+              "column": 2,
+              "offset": 580
+            },
+            "end": {
+              "line": 29,
+              "column": 15,
+              "offset": 593
+            }
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "second item",
+                  "position": {
+                    "start": {
+                      "line": 30,
+                      "column": 5,
+                      "offset": 598
+                    },
+                    "end": {
+                      "line": 30,
+                      "column": 16,
+                      "offset": 609
+                    }
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 30,
+                  "column": 5,
+                  "offset": 598
+                },
+                "end": {
+                  "line": 30,
+                  "column": 16,
+                  "offset": 609
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 30,
+              "column": 2,
+              "offset": 595
+            },
+            "end": {
+              "line": 30,
+              "column": 16,
+              "offset": 609
+            }
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "third item",
+                  "position": {
+                    "start": {
+                      "line": 31,
+                      "column": 5,
+                      "offset": 614
+                    },
+                    "end": {
+                      "line": 31,
+                      "column": 15,
+                      "offset": 624
+                    }
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 31,
+                  "column": 5,
+                  "offset": 614
+                },
+                "end": {
+                  "line": 31,
+                  "column": 15,
+                  "offset": 624
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 31,
+              "column": 2,
+              "offset": 611
+            },
+            "end": {
+              "line": 31,
+              "column": 15,
+              "offset": 624
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 29,
+          "column": 2,
+          "offset": 580
+        },
+        "end": {
+          "line": 31,
+          "column": 15,
+          "offset": 624
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Note again how the actual text starts at 4 columns in (4 characters\nfrom the left side). Here's a code sample:",
+          "position": {
+            "start": {
+              "line": 33,
+              "column": 1,
+              "offset": 626
+            },
+            "end": {
+              "line": 34,
+              "column": 43,
+              "offset": 736
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 33,
+          "column": 1,
+          "offset": 626
+        },
+        "end": {
+          "line": 34,
+          "column": 43,
+          "offset": 736
+        }
+      }
+    },
+    {
+      "type": "code",
+      "lang": null,
+      "meta": null,
+      "value": "# Let me re-iterate ...\nfor i in 1 .. 10 { do-something(i) }",
+      "position": {
+        "start": {
+          "line": 36,
+          "column": 1,
+          "offset": 738
+        },
+        "end": {
+          "line": 37,
+          "column": 41,
+          "offset": 806
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "As you probably guessed, indented 4 spaces. By the way, instead of\nindenting the block, you can use delimited blocks, if you like:",
+          "position": {
+            "start": {
+              "line": 39,
+              "column": 1,
+              "offset": 808
+            },
+            "end": {
+              "line": 40,
+              "column": 64,
+              "offset": 938
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 39,
+          "column": 1,
+          "offset": 808
+        },
+        "end": {
+          "line": 40,
+          "column": 64,
+          "offset": 938
+        }
+      }
+    },
+    {
+      "type": "code",
+      "lang": null,
+      "meta": null,
+      "value": "define foobar() {\n    print \"Welcome to flavor country!\";\n}",
+      "position": {
+        "start": {
+          "line": 42,
+          "column": 1,
+          "offset": 940
+        },
+        "end": {
+          "line": 46,
+          "column": 4,
+          "offset": 1007
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "(which makes copying & pasting easier). You can optionally mark the\ndelimited block for Pandoc to syntax highlight it:",
+          "position": {
+            "start": {
+              "line": 48,
+              "column": 1,
+              "offset": 1009
+            },
+            "end": {
+              "line": 49,
+              "column": 51,
+              "offset": 1127
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 48,
+          "column": 1,
+          "offset": 1009
+        },
+        "end": {
+          "line": 49,
+          "column": 51,
+          "offset": 1127
+        }
+      }
+    },
+    {
+      "type": "code",
+      "lang": "python",
+      "meta": null,
+      "value": "import time\n# Quick, count to ten!\nfor i in range(10):\n    # (but not *too* quick)\n    time.sleep(0.5)\n    print i",
+      "position": {
+        "start": {
+          "line": 51,
+          "column": 1,
+          "offset": 1129
+        },
+        "end": {
+          "line": 58,
+          "column": 4,
+          "offset": 1257
+        }
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 3,
+      "children": [
+        {
+          "type": "text",
+          "value": "An h3 header",
+          "position": {
+            "start": {
+              "line": 60,
+              "column": 5,
+              "offset": 1263
+            },
+            "end": {
+              "line": 60,
+              "column": 17,
+              "offset": 1275
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 60,
+          "column": 1,
+          "offset": 1259
+        },
+        "end": {
+          "line": 60,
+          "column": 17,
+          "offset": 1275
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Now a nested list:",
+          "position": {
+            "start": {
+              "line": 62,
+              "column": 1,
+              "offset": 1277
+            },
+            "end": {
+              "line": 62,
+              "column": 19,
+              "offset": 1295
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 62,
+          "column": 1,
+          "offset": 1277
+        },
+        "end": {
+          "line": 62,
+          "column": 19,
+          "offset": 1295
+        }
+      }
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "start": 1,
+      "spread": true,
+      "children": [
+        {
+          "type": "listItem",
+          "spread": true,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "First, get these ingredients:",
+                  "position": {
+                    "start": {
+                      "line": 64,
+                      "column": 5,
+                      "offset": 1301
+                    },
+                    "end": {
+                      "line": 64,
+                      "column": 34,
+                      "offset": 1330
+                    }
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 64,
+                  "column": 5,
+                  "offset": 1301
+                },
+                "end": {
+                  "line": 64,
+                  "column": 34,
+                  "offset": 1330
+                }
+              }
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "start": null,
+              "spread": false,
+              "children": [
+                {
+                  "type": "listItem",
+                  "spread": false,
+                  "checked": null,
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "carrots",
+                          "position": {
+                            "start": {
+                              "line": 66,
+                              "column": 9,
+                              "offset": 1340
+                            },
+                            "end": {
+                              "line": 66,
+                              "column": 16,
+                              "offset": 1347
+                            }
+                          }
+                        }
+                      ],
+                      "position": {
+                        "start": {
+                          "line": 66,
+                          "column": 9,
+                          "offset": 1340
+                        },
+                        "end": {
+                          "line": 66,
+                          "column": 16,
+                          "offset": 1347
+                        }
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 66,
+                      "column": 7,
+                      "offset": 1338
+                    },
+                    "end": {
+                      "line": 66,
+                      "column": 16,
+                      "offset": 1347
+                    }
+                  }
+                },
+                {
+                  "type": "listItem",
+                  "spread": false,
+                  "checked": null,
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "celery",
+                          "position": {
+                            "start": {
+                              "line": 67,
+                              "column": 9,
+                              "offset": 1356
+                            },
+                            "end": {
+                              "line": 67,
+                              "column": 15,
+                              "offset": 1362
+                            }
+                          }
+                        }
+                      ],
+                      "position": {
+                        "start": {
+                          "line": 67,
+                          "column": 9,
+                          "offset": 1356
+                        },
+                        "end": {
+                          "line": 67,
+                          "column": 15,
+                          "offset": 1362
+                        }
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 67,
+                      "column": 7,
+                      "offset": 1354
+                    },
+                    "end": {
+                      "line": 67,
+                      "column": 15,
+                      "offset": 1362
+                    }
+                  }
+                },
+                {
+                  "type": "listItem",
+                  "spread": false,
+                  "checked": null,
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "lentils",
+                          "position": {
+                            "start": {
+                              "line": 68,
+                              "column": 9,
+                              "offset": 1371
+                            },
+                            "end": {
+                              "line": 68,
+                              "column": 16,
+                              "offset": 1378
+                            }
+                          }
+                        }
+                      ],
+                      "position": {
+                        "start": {
+                          "line": 68,
+                          "column": 9,
+                          "offset": 1371
+                        },
+                        "end": {
+                          "line": 68,
+                          "column": 16,
+                          "offset": 1378
+                        }
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 68,
+                      "column": 7,
+                      "offset": 1369
+                    },
+                    "end": {
+                      "line": 68,
+                      "column": 16,
+                      "offset": 1378
+                    }
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 66,
+                  "column": 7,
+                  "offset": 1338
+                },
+                "end": {
+                  "line": 68,
+                  "column": 16,
+                  "offset": 1378
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 64,
+              "column": 2,
+              "offset": 1298
+            },
+            "end": {
+              "line": 68,
+              "column": 16,
+              "offset": 1378
+            }
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Boil some water.",
+                  "position": {
+                    "start": {
+                      "line": 70,
+                      "column": 5,
+                      "offset": 1384
+                    },
+                    "end": {
+                      "line": 70,
+                      "column": 21,
+                      "offset": 1400
+                    }
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 70,
+                  "column": 5,
+                  "offset": 1384
+                },
+                "end": {
+                  "line": 70,
+                  "column": 21,
+                  "offset": 1400
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 70,
+              "column": 2,
+              "offset": 1381
+            },
+            "end": {
+              "line": 70,
+              "column": 21,
+              "offset": 1400
+            }
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": true,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Dump everything in the pot and follow\nthis algorithm:",
+                  "position": {
+                    "start": {
+                      "line": 72,
+                      "column": 5,
+                      "offset": 1406
+                    },
+                    "end": {
+                      "line": 73,
+                      "column": 20,
+                      "offset": 1463
+                    }
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 72,
+                  "column": 5,
+                  "offset": 1406
+                },
+                "end": {
+                  "line": 73,
+                  "column": 20,
+                  "offset": 1463
+                }
+              }
+            },
+            {
+              "type": "code",
+              "lang": null,
+              "meta": null,
+              "value": "find wooden spoon\nuncover pot\nstir\ncover pot\nbalance wooden spoon precariously on pot handle\nwait 10 minutes\ngoto first step (or shut off burner when done)",
+              "position": {
+                "start": {
+                  "line": 75,
+                  "column": 5,
+                  "offset": 1469
+                },
+                "end": {
+                  "line": 81,
+                  "column": 55,
+                  "offset": 1676
+                }
+              }
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Do not bump wooden spoon or it will fall.",
+                  "position": {
+                    "start": {
+                      "line": 83,
+                      "column": 5,
+                      "offset": 1682
+                    },
+                    "end": {
+                      "line": 83,
+                      "column": 46,
+                      "offset": 1723
+                    }
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 83,
+                  "column": 5,
+                  "offset": 1682
+                },
+                "end": {
+                  "line": 83,
+                  "column": 46,
+                  "offset": 1723
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 72,
+              "column": 2,
+              "offset": 1403
+            },
+            "end": {
+              "line": 83,
+              "column": 46,
+              "offset": 1723
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 64,
+          "column": 2,
+          "offset": 1298
+        },
+        "end": {
+          "line": 83,
+          "column": 46,
+          "offset": 1723
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Notice again how text always lines up on 4-space indents (including\nthat last line which continues item 3 above).",
+          "position": {
+            "start": {
+              "line": 85,
+              "column": 1,
+              "offset": 1725
+            },
+            "end": {
+              "line": 86,
+              "column": 46,
+              "offset": 1838
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 85,
+          "column": 1,
+          "offset": 1725
+        },
+        "end": {
+          "line": 86,
+          "column": 46,
+          "offset": 1838
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Here's a link to ",
+          "position": {
+            "start": {
+              "line": 88,
+              "column": 1,
+              "offset": 1840
+            },
+            "end": {
+              "line": 88,
+              "column": 18,
+              "offset": 1857
+            }
+          }
+        },
+        {
+          "type": "link",
+          "title": null,
+          "url": "http://foo.bar",
+          "children": [
+            {
+              "type": "text",
+              "value": "a website",
+              "position": {
+                "start": {
+                  "line": 88,
+                  "column": 19,
+                  "offset": 1858
+                },
+                "end": {
+                  "line": 88,
+                  "column": 28,
+                  "offset": 1867
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 88,
+              "column": 18,
+              "offset": 1857
+            },
+            "end": {
+              "line": 88,
+              "column": 45,
+              "offset": 1884
+            }
+          }
+        },
+        {
+          "type": "text",
+          "value": ", to a ",
+          "position": {
+            "start": {
+              "line": 88,
+              "column": 45,
+              "offset": 1884
+            },
+            "end": {
+              "line": 88,
+              "column": 52,
+              "offset": 1891
+            }
+          }
+        },
+        {
+          "type": "link",
+          "title": null,
+          "url": "local-doc.html",
+          "children": [
+            {
+              "type": "text",
+              "value": "local\ndoc",
+              "position": {
+                "start": {
+                  "line": 88,
+                  "column": 53,
+                  "offset": 1892
+                },
+                "end": {
+                  "line": 89,
+                  "column": 4,
+                  "offset": 1901
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 88,
+              "column": 52,
+              "offset": 1891
+            },
+            "end": {
+              "line": 89,
+              "column": 21,
+              "offset": 1918
+            }
+          }
+        },
+        {
+          "type": "text",
+          "value": ", and to a ",
+          "position": {
+            "start": {
+              "line": 89,
+              "column": 21,
+              "offset": 1918
+            },
+            "end": {
+              "line": 89,
+              "column": 32,
+              "offset": 1929
+            }
+          }
+        },
+        {
+          "type": "link",
+          "title": null,
+          "url": "#an-h2-header",
+          "children": [
+            {
+              "type": "text",
+              "value": "section heading in the current\ndoc",
+              "position": {
+                "start": {
+                  "line": 89,
+                  "column": 33,
+                  "offset": 1930
+                },
+                "end": {
+                  "line": 90,
+                  "column": 4,
+                  "offset": 1964
+                }
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 89,
+              "column": 32,
+              "offset": 1929
+            },
+            "end": {
+              "line": 90,
+              "column": 20,
+              "offset": 1980
+            }
+          }
+        },
+        {
+          "type": "text",
+          "value": ". Here's a footnote [^1].",
+          "position": {
+            "start": {
+              "line": 90,
+              "column": 20,
+              "offset": 1980
+            },
+            "end": {
+              "line": 90,
+              "column": 45,
+              "offset": 2005
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 88,
+          "column": 1,
+          "offset": 1840
+        },
+        "end": {
+          "line": 90,
+          "column": 45,
+          "offset": 2005
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "[^1]: Footnote text goes here.",
+          "position": {
+            "start": {
+              "line": 92,
+              "column": 1,
+              "offset": 2007
+            },
+            "end": {
+              "line": 92,
+              "column": 31,
+              "offset": 2037
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 92,
+          "column": 1,
+          "offset": 2007
+        },
+        "end": {
+          "line": 92,
+          "column": 31,
+          "offset": 2037
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Tables can look like this:",
+          "position": {
+            "start": {
+              "line": 94,
+              "column": 1,
+              "offset": 2039
+            },
+            "end": {
+              "line": 94,
+              "column": 27,
+              "offset": 2065
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 94,
+          "column": 1,
+          "offset": 2039
+        },
+        "end": {
+          "line": 94,
+          "column": 27,
+          "offset": 2065
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "size  material      color",
+          "position": {
+            "start": {
+              "line": 96,
+              "column": 1,
+              "offset": 2067
+            },
+            "end": {
+              "line": 96,
+              "column": 26,
+              "offset": 2092
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 96,
+          "column": 1,
+          "offset": 2067
+        },
+        "end": {
+          "line": 96,
+          "column": 26,
+          "offset": 2092
+        }
+      }
+    },
+    {
+      "type": "thematicBreak",
+      "position": {
+        "start": {
+          "line": 97,
+          "column": 1,
+          "offset": 2093
+        },
+        "end": {
+          "line": 97,
+          "column": 33,
+          "offset": 2125
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "9     leather       brown\n10    hemp canvas   natural\n11    glass         transparent",
+          "position": {
+            "start": {
+              "line": 98,
+              "column": 1,
+              "offset": 2126
+            },
+            "end": {
+              "line": 100,
+              "column": 32,
+              "offset": 2211
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 98,
+          "column": 1,
+          "offset": 2126
+        },
+        "end": {
+          "line": 100,
+          "column": 32,
+          "offset": 2211
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Table: Shoes, their sizes, and what they're made of",
+          "position": {
+            "start": {
+              "line": 102,
+              "column": 1,
+              "offset": 2213
+            },
+            "end": {
+              "line": 102,
+              "column": 52,
+              "offset": 2264
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 102,
+          "column": 1,
+          "offset": 2213
+        },
+        "end": {
+          "line": 102,
+          "column": 52,
+          "offset": 2264
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "(The above is the caption for the table.) Pandoc also supports\nmulti-line tables:",
+          "position": {
+            "start": {
+              "line": 104,
+              "column": 1,
+              "offset": 2266
+            },
+            "end": {
+              "line": 105,
+              "column": 19,
+              "offset": 2347
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 104,
+          "column": 1,
+          "offset": 2266
+        },
+        "end": {
+          "line": 105,
+          "column": 19,
+          "offset": 2347
+        }
+      }
+    },
+    {
+      "type": "thematicBreak",
+      "position": {
+        "start": {
+          "line": 107,
+          "column": 1,
+          "offset": 2349
+        },
+        "end": {
+          "line": 107,
+          "column": 34,
+          "offset": 2382
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "keyword   text",
+          "position": {
+            "start": {
+              "line": 108,
+              "column": 1,
+              "offset": 2383
+            },
+            "end": {
+              "line": 108,
+              "column": 15,
+              "offset": 2397
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 108,
+          "column": 1,
+          "offset": 2383
+        },
+        "end": {
+          "line": 108,
+          "column": 15,
+          "offset": 2397
+        }
+      }
+    },
+    {
+      "type": "thematicBreak",
+      "position": {
+        "start": {
+          "line": 109,
+          "column": 1,
+          "offset": 2398
+        },
+        "end": {
+          "line": 109,
+          "column": 34,
+          "offset": 2431
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "red       Sunsets, apples, and\nother red or reddish\nthings.",
+          "position": {
+            "start": {
+              "line": 110,
+              "column": 1,
+              "offset": 2432
+            },
+            "end": {
+              "line": 112,
+              "column": 18,
+              "offset": 2511
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 110,
+          "column": 1,
+          "offset": 2432
+        },
+        "end": {
+          "line": 112,
+          "column": 18,
+          "offset": 2511
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "green     Leaves, grass, frogs\nand other things it's\nnot easy being.",
+          "position": {
+            "start": {
+              "line": 114,
+              "column": 1,
+              "offset": 2513
+            },
+            "end": {
+              "line": 116,
+              "column": 26,
+              "offset": 2601
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 114,
+          "column": 1,
+          "offset": 2513
+        },
+        "end": {
+          "line": 116,
+          "column": 26,
+          "offset": 2601
+        }
+      }
+    },
+    {
+      "type": "thematicBreak",
+      "position": {
+        "start": {
+          "line": 117,
+          "column": 1,
+          "offset": 2602
+        },
+        "end": {
+          "line": 117,
+          "column": 34,
+          "offset": 2635
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "A horizontal rule follows.",
+          "position": {
+            "start": {
+              "line": 119,
+              "column": 1,
+              "offset": 2637
+            },
+            "end": {
+              "line": 119,
+              "column": 27,
+              "offset": 2663
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 119,
+          "column": 1,
+          "offset": 2637
+        },
+        "end": {
+          "line": 119,
+          "column": 27,
+          "offset": 2663
+        }
+      }
+    },
+    {
+      "type": "thematicBreak",
+      "position": {
+        "start": {
+          "line": 121,
+          "column": 1,
+          "offset": 2665
+        },
+        "end": {
+          "line": 121,
+          "column": 4,
+          "offset": 2668
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Here's a definition list:",
+          "position": {
+            "start": {
+              "line": 123,
+              "column": 1,
+              "offset": 2670
+            },
+            "end": {
+              "line": 123,
+              "column": 26,
+              "offset": 2695
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 123,
+          "column": 1,
+          "offset": 2670
+        },
+        "end": {
+          "line": 123,
+          "column": 26,
+          "offset": 2695
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "apples\n: Good for making applesauce.\noranges\n: Citrus!\ntomatoes\n: There's no \"e\" in tomatoe.",
+          "position": {
+            "start": {
+              "line": 125,
+              "column": 1,
+              "offset": 2697
+            },
+            "end": {
+              "line": 130,
+              "column": 31,
+              "offset": 2795
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 125,
+          "column": 1,
+          "offset": 2697
+        },
+        "end": {
+          "line": 130,
+          "column": 31,
+          "offset": 2795
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Again, text is indented 4 spaces. (Put a blank line between each\nterm/definition pair to spread things out more.)",
+          "position": {
+            "start": {
+              "line": 132,
+              "column": 1,
+              "offset": 2797
+            },
+            "end": {
+              "line": 133,
+              "column": 49,
+              "offset": 2910
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 132,
+          "column": 1,
+          "offset": 2797
+        },
+        "end": {
+          "line": 133,
+          "column": 49,
+          "offset": 2910
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Here's a \"line block\":",
+          "position": {
+            "start": {
+              "line": 135,
+              "column": 1,
+              "offset": 2912
+            },
+            "end": {
+              "line": 135,
+              "column": 23,
+              "offset": 2934
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 135,
+          "column": 1,
+          "offset": 2912
+        },
+        "end": {
+          "line": 135,
+          "column": 23,
+          "offset": 2934
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "| Line one\n|   Line too\n| Line tree",
+          "position": {
+            "start": {
+              "line": 137,
+              "column": 1,
+              "offset": 2936
+            },
+            "end": {
+              "line": 139,
+              "column": 12,
+              "offset": 2971
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 137,
+          "column": 1,
+          "offset": 2936
+        },
+        "end": {
+          "line": 139,
+          "column": 12,
+          "offset": 2971
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "and images can be specified like so:",
+          "position": {
+            "start": {
+              "line": 141,
+              "column": 1,
+              "offset": 2973
+            },
+            "end": {
+              "line": 141,
+              "column": 37,
+              "offset": 3009
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 141,
+          "column": 1,
+          "offset": 2973
+        },
+        "end": {
+          "line": 141,
+          "column": 37,
+          "offset": 3009
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "title": "An exemplary image",
+          "url": "example-image.jpg",
+          "alt": "example image",
+          "position": {
+            "start": {
+              "line": 143,
+              "column": 1,
+              "offset": 3011
+            },
+            "end": {
+              "line": 143,
+              "column": 57,
+              "offset": 3067
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 143,
+          "column": 1,
+          "offset": 3011
+        },
+        "end": {
+          "line": 143,
+          "column": 57,
+          "offset": 3067
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Inline math equations go in like so: $\\omega = d\\phi / dt$. Display\nmath should get its own line and be put in in double-dollarsigns:",
+          "position": {
+            "start": {
+              "line": 145,
+              "column": 1,
+              "offset": 3069
+            },
+            "end": {
+              "line": 146,
+              "column": 66,
+              "offset": 3202
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 145,
+          "column": 1,
+          "offset": 3069
+        },
+        "end": {
+          "line": 146,
+          "column": 66,
+          "offset": 3202
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "$$I = \\int \\rho R^{2} dV$$",
+          "position": {
+            "start": {
+              "line": 148,
+              "column": 1,
+              "offset": 3204
+            },
+            "end": {
+              "line": 148,
+              "column": 27,
+              "offset": 3230
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 148,
+          "column": 1,
+          "offset": 3204
+        },
+        "end": {
+          "line": 148,
+          "column": 27,
+          "offset": 3230
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "And note that you can backslash-escape any punctuation characters\nwhich you wish to be displayed literally, ex.: `foo`, *bar*, etc.",
+          "position": {
+            "start": {
+              "line": 150,
+              "column": 1,
+              "offset": 3232
+            },
+            "end": {
+              "line": 151,
+              "column": 70,
+              "offset": 3367
+            }
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 150,
+          "column": 1,
+          "offset": 3232
+        },
+        "end": {
+          "line": 151,
+          "column": 70,
+          "offset": 3367
+        }
+      }
+    }
+  ],
+  "position": {
+    "start": {
+      "line": 1,
+      "column": 1,
+      "offset": 0
+    },
+    "end": {
+      "line": 152,
+      "column": 1,
+      "offset": 3368
+    }
+  }
+}
